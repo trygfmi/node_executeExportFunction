@@ -45,10 +45,10 @@
 <div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/node_executeExportFunction
 cd node_executeExportFunction
-cd workDirectory_executeExportFunction
+cd work-directory_execute-export-function
 npm init -y
-npm install ../install_executeExportFunction
-cat ../install_executeExportFunction/index.js
+npm install ../install_execute-export-function
+cat ../install_execute-export-function/index.js
 cat index.js
 node index.js</code></pre>
 
@@ -70,10 +70,10 @@ hello export function</code></pre>
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
 git clone https://github.com/trygfmi/node_executeExportFunction
 cd node_executeExportFunction
-cd workDirectory_executeExportFunction
+cd work-directory_execute-export-function
 npm init -y
-npm install ../install_executeExportFunction
-cat ../install_executeExportFunction/index.js
+npm install ../install_execute-export-function
+cat ../install_execute-export-function/index.js
 cat index.js
 node index.js</code></pre>
 
@@ -99,10 +99,10 @@ hello export function</code></pre>
 <div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/node_executeExportFunction
 cd node_executeExportFunction
-cd workDirectory_executeExportFunction
+cd work-directory_execute-export-function
 npm init -y
-npm install ../install_executeExportFunction
-cat ../install_executeExportFunction/index.js
+npm install ../install_execute-export-function
+cat ../install_execute-export-function/index.js
 cat index.js
 node index.js</code></pre>
 
@@ -123,10 +123,10 @@ hello export function</code></pre>
 <div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/node_executeExportFunction
 cd node_executeExportFunction
-cd workDirectory_executeExportFunction
+cd work-directory_execute-export-function
 npm init -y
-npm install ../install_executeExportFunction
-cat ../install_executeExportFunction/index.js
+npm install ../install_execute-export-function
+cat ../install_execute-export-function/index.js
 cat index.js
 node index.js</code></pre>
 
@@ -194,10 +194,10 @@ sudo apt install npm</code></pre>
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/node_executeExportFunction
 cd node_executeExportFunction
-cd workDirectory_executeExportFunction
+cd work-directory_execute-export-function
 npm init -y
-npm install ../install_executeExportFunction
-cat ../install_executeExportFunction/index.js
+npm install ../install_execute-export-function
+cat ../install_execute-export-function/index.js
 cat index.js
 node index.js</code></pre>
 
@@ -278,10 +278,10 @@ echo 'alias node="/opt/local/bin/node"' >> ~/bashrc_folder/macports_alias</code>
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
 git clone https://github.com/trygfmi/node_executeExportFunction
 cd node_executeExportFunction
-cd workDirectory_executeExportFunction
+cd work-directory_execute-export-function
 npm init -y
-npm install ../install_executeExportFunction
-cat ../install_executeExportFunction/index.js
+npm install ../install_execute-export-function
+cat ../install_execute-export-function/index.js
 cat index.js
 node index.js</code></pre>
 
@@ -387,10 +387,10 @@ pacman --sync npm</code></pre>
 <div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/node_executeExportFunction
 cd node_executeExportFunction
-cd workDirectory_executeExportFunction
+cd work-directory_execute-export-function
 npm init -y
-npm install ../install_executeExportFunction
-cat ../install_executeExportFunction/index.js
+npm install ../install_execute-export-function
+cat ../install_execute-export-function/index.js
 cat index.js
 node index.js</code></pre>
 
@@ -411,10 +411,10 @@ hello export function</code></pre>
 <div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/node_executeExportFunction
 cd node_executeExportFunction
-cd workDirectory_executeExportFunction
+cd work-directory_execute-export-function
 npm init -y
-npm install ../install_executeExportFunction
-cat ../install_executeExportFunction/index.js
+npm install ../install_execute-export-function
+cat ../install_execute-export-function/index.js
 cat index.js
 node index.js</code></pre>
 
